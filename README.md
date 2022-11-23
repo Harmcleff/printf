@@ -43,7 +43,7 @@ Output: Hello ALX School
 
 Printing an integer number:
 Input: \_printf("2 + 2 is equal to %d.", 4);
-Output: 2 + 2 is equal to 4
+Output: 2 + 2 is equal to 4.
 
 Printing a binary:
 Input: \_printf("98 in binary is [%b]", 98);
